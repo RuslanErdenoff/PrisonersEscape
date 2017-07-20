@@ -1,0 +1,68 @@
+
+MoveCircle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ArrowDownDisabled
+  rotate: false
+  xy: 0, 1704
+  size: 852, 852
+  orig: 852, 852
+  offset: 0, 0
+  index: -1
+ArrowDownEnabled
+  rotate: false
+  xy: 0, 852
+  size: 852, 852
+  orig: 852, 852
+  offset: 0, 0
+  index: -1
+ArrowLeftDisabled
+  rotate: false
+  xy: 0, 0
+  size: 852, 852
+  orig: 852, 852
+  offset: 0, 0
+  index: -1
+ArrowLeftEnabled
+  rotate: false
+  xy: 852, 1704
+  size: 852, 852
+  orig: 852, 852
+  offset: 0, 0
+  index: -1
+ArrowRightDisabled
+  rotate: false
+  xy: 1704, 1704
+  size: 852, 852
+  orig: 852, 852
+  offset: 0, 0
+  index: -1
+ArrowRightEnabled
+  rotate: false
+  xy: 852, 852
+  size: 852, 852
+  orig: 852, 852
+  offset: 0, 0
+  index: -1
+ArrowUpDisabled
+  rotate: false
+  xy: 852, 0
+  size: 852, 852
+  orig: 852, 852
+  offset: 0, 0
+  index: -1
+ArrowUpEnabled
+  rotate: false
+  xy: 1704, 852
+  size: 852, 852
+  orig: 852, 852
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 1704, 0
+  size: 852, 852
+  orig: 852, 852
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+
+SittingCircle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SittingCircleDisabled
+  rotate: false
+  xy: 0, 0
+  size: 852, 852
+  orig: 852, 852
+  offset: 0, 0
+  index: -1
+SittingCircleEnabled
+  rotate: false
+  xy: 852, 0
+  size: 852, 852
+  orig: 852, 852
+  offset: 0, 0
+  index: -1

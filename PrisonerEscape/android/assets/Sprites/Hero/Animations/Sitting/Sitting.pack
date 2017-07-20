@@ -1,0 +1,152 @@
+
+Sitting.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Sitting (1)
+  rotate: false
+  xy: 0, 1636
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (10)
+  rotate: false
+  xy: 0, 1227
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (11)
+  rotate: false
+  xy: 320, 1636
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (12)
+  rotate: false
+  xy: 0, 818
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (13)
+  rotate: false
+  xy: 320, 1227
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (14)
+  rotate: false
+  xy: 640, 1636
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (15)
+  rotate: false
+  xy: 0, 409
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (16)
+  rotate: false
+  xy: 320, 818
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (17)
+  rotate: false
+  xy: 640, 1227
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (18)
+  rotate: false
+  xy: 960, 1636
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (19)
+  rotate: false
+  xy: 0, 0
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (2)
+  rotate: false
+  xy: 320, 409
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (20)
+  rotate: false
+  xy: 640, 818
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (21)
+  rotate: false
+  xy: 960, 1227
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (3)
+  rotate: false
+  xy: 1280, 1636
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (4)
+  rotate: false
+  xy: 320, 0
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (5)
+  rotate: false
+  xy: 640, 409
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (6)
+  rotate: false
+  xy: 960, 818
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (7)
+  rotate: false
+  xy: 1280, 1227
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (8)
+  rotate: false
+  xy: 1600, 1636
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
+Sitting (9)
+  rotate: false
+  xy: 640, 0
+  size: 320, 409
+  orig: 320, 409
+  offset: 0, 0
+  index: -1
